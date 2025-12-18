@@ -16,7 +16,5 @@ I'm a NOVA Computer Science student applying **Python** to software development,
 - Besides coding, I vibe with music, movie nights, video games, soccer, wrestling sports (WWE) and trying out new cuisines 🍜!
 
   ---
-
-### 🛠️ Tools and Technologies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
