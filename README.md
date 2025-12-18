@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kwadwo Larbi</h1>
-<h3 align="center">Exploring tech through Python</h3>
+<h3 align="left">Exploring tech through Python</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
