@@ -13,7 +13,7 @@ I'm a NOVA Computer Science student applying **Python** to software development,
 - 🚀 Preparing for more advanced tech fields as I expand my skills.
   
 💡 **Fun Fact:**
-- Besides coding, I vibe with music, movie nights, video games, soccer, wrestling sports (WWE) and trying out new cuisines 🍜!
+- Besides coding, I vibe with music, movie nights, video games, soccer, wrestling  and trying out new cuisines 🍜!
 
   ---
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
